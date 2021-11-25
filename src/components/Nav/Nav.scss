@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  &__link {
+    display: block;
+    padding: 0.5rem;
+    font-weight: 700;
+    color: #ffffff;
+    transition: color 0.15s ease;
+    &:hover {
+      color: #6c757d;
+    }
+  }
+}

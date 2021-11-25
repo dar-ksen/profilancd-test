@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+#root {
+  height: 100%;
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  min-width: 360px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+  color: #323232;
+  background-color: #ffffff;
+
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: normal;
+}
