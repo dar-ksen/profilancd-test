@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/profilance-test/static/css/main.9ed81626.chunk.css",
-    "main.js": "/profilance-test/static/js/main.56c0267a.chunk.js",
-    "main.js.map": "/profilance-test/static/js/main.56c0267a.chunk.js.map",
+    "main.css": "/profilance-test/static/css/main.09e26417.chunk.css",
+    "main.js": "/profilance-test/static/js/main.89800b62.chunk.js",
+    "main.js.map": "/profilance-test/static/js/main.89800b62.chunk.js.map",
     "runtime-main.js": "/profilance-test/static/js/runtime-main.839ed133.js",
     "runtime-main.js.map": "/profilance-test/static/js/runtime-main.839ed133.js.map",
     "static/css/2.679831fc.chunk.css": "/profilance-test/static/css/2.679831fc.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.e01d22a3.chunk.js.map": "/profilance-test/static/js/2.e01d22a3.chunk.js.map",
     "index.html": "/profilance-test/index.html",
     "static/css/2.679831fc.chunk.css.map": "/profilance-test/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.9ed81626.chunk.css.map": "/profilance-test/static/css/main.9ed81626.chunk.css.map",
+    "static/css/main.09e26417.chunk.css.map": "/profilance-test/static/css/main.09e26417.chunk.css.map",
     "static/js/2.e01d22a3.chunk.js.LICENSE.txt": "/profilance-test/static/js/2.e01d22a3.chunk.js.LICENSE.txt",
     "static/media/logo.e23e2f75.svg": "/profilance-test/static/media/logo.e23e2f75.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.839ed133.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.e01d22a3.chunk.js",
-    "static/css/main.9ed81626.chunk.css",
-    "static/js/main.56c0267a.chunk.js"
+    "static/css/main.09e26417.chunk.css",
+    "static/js/main.89800b62.chunk.js"
   ]
 }
