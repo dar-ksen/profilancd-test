@@ -28,16 +28,18 @@ const AuthModal = () => {
         label="Имя пользователя"
         id="name"
         value={username}
+        required
         onChange={(e) => setUsername(e.target.value)}
       />
       <Input
         type="password"
         label="Пароль"
         id="password"
+        required
         value={password}
         onChange={(e) => setPassword(e.target.value)}
       />
-      {error}
+      {error && <div className="error-message">{error}</div>}
     </>
   );
 

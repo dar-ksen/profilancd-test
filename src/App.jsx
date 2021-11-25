@@ -13,7 +13,7 @@ const App = () => {
       setUser({ username: localStorage.getItem("username" || "") });
       setIsAuth(true);
     }
-  }, []);
+  }, [setUser, setIsAuth]);
 
   const [showAuthModal, setShowAuthModal] = useState(true);
   const openAuthModal = () => setShowAuthModal(true);

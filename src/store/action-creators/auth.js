@@ -7,6 +7,7 @@ export const setError = (payload) => ({ type: types.SET_ERROR, payload });
 export const modalShow = (payload) => ({ type: types.SET_MODAL, payload });
 
 export const login = (username, password) => (dispatch) => {
+  dispatch(setError(""));
   const mockUser = users.find(
     (user) => user.username === username && user.password === password
   );
